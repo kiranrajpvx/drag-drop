@@ -1,6 +1,6 @@
 # Sample drag-drop using HTML,CSS,JQuery
 
-Clone and open it in Visual Studio -> File -> Open -> WebSite 
+Clone and open it in Visual Studio  
 
 Make index.html as startup page.
 
